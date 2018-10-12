@@ -7,8 +7,6 @@ import java.util.Scanner;
  * @author EjazAhmad
  *
  */
-
-
 public class NumberToWordConversion {
 
 	/**
